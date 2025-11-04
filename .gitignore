@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# OSINT Project specific
+config.json
+*.csv
+*.json
+companies_house_search-R.py.save
